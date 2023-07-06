@@ -1,5 +1,6 @@
 import React, { Fragment, useState } from "react";
 import { HiSearch } from "react-icons/hi";
+
 import "../Styles/NavBar.css";
 import { Link, Route, Routes } from "react-router-dom";
 import Movies from "./Movies";
