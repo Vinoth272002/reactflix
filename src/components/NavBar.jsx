@@ -19,7 +19,7 @@ function NavBar() {
         <nav className={toggle ? "" : "navBarColor"}>
           <div className="nav-options">
             <h1 id={toggle ? "" : "heading"}>REACTFLIX</h1>
-            <Link to="/">
+            <Link to="react_movie_app_clone">
               <span id={toggle ? "Movies" : "MoviesLight"}>Movies</span>
             </Link>
             <Link to="/TvShows">
@@ -52,7 +52,7 @@ function NavBar() {
           </div>
         </nav>
         <Routes>
-          <Route path="/" element={<Movies />} />
+          <Route path="react_movie_app_clone" element={<Movies />} />
           <Route path="TvShows" element={<TvShows />} />
           <Route path="Trending" element={<Trends />} />
           <Route path="pricing" element={<Pricing />} />
