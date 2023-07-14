@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactflix/static/css/main.0346ff71.css",
+    "main.js": "/reactflix/static/js/main.d3c1b90a.js",
+    "index.html": "/reactflix/index.html",
+    "main.0346ff71.css.map": "/reactflix/static/css/main.0346ff71.css.map",
+    "main.d3c1b90a.js.map": "/reactflix/static/js/main.d3c1b90a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0346ff71.css",
+    "static/js/main.d3c1b90a.js"
+  ]
+}
