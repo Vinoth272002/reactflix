@@ -3,18 +3,12 @@
   height: 91vh;
   background-color: #0c1e25;
   padding-top: 20px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 .backgroun-Color-secondary {
   width: 100vw;
   height: 91vh;
   background-color: #fff;
   padding-top: 20px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 .pricing-container {
   display: flex;
